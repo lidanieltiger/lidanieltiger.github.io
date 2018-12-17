@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email:
-description: A simple and awesome blog theme powered by jekyll.
+title: Daniel Li
+email: danielli9988@gmail.com
+description: description later
 url: # the base hostname & protocol for your site
 keywords: ["blog", "jekyll"]
 
@@ -33,14 +33,14 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
-  avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
-  email:
+  name: daniel li
+  avatar: daniel.jpg
+  job: "Software Developer"
+  bio: "Hi! I'm currently a student at UCLA. Welcome to my blog. Maybe read some posts while you're here :)"
+  email: #email address
   disqus-shortname:
   twitter: #username
-  facebook: #username
+  facebook: lidanieltiger
   google:
     plus: #username
     analytics:
@@ -48,13 +48,13 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: lidanieltiger
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: lidanieltiger
   skype: #username
   xing: #username
-  instagram: #username
+  instagram: lidanieltiger
   lastfm: #username
   tumblr: #username
   pinterest: #username
